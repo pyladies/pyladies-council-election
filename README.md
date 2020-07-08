@@ -1,4 +1,4 @@
-PyLadies Election Repository
+# PyLadies Election Repository
 
 This repository contains the tools and documentation for the way the PyLadies Elections are presently operated. This document, inspired by the Python Software Foundation elections procedure, will cover the tools in the repository and the processes that the Election Administrator is responsible for.
 
